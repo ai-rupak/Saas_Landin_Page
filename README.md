@@ -18,7 +18,7 @@ A **modern, responsive SaaS landing page** built with **Next.js 15**, **Framer M
 ## 🚀 Demo
 
 Check out the live demo: [**Your Demo Link Here**](#)  
-*(Replace this with your deployed link once available)*
+
 
 ---
 
@@ -89,7 +89,7 @@ Feel free to check the [issues page](#) *(Replace with your repository's issues 
 ---
 
 ## 📧 Contact
-Created by **[Your Name](https://github.com/ai-rupak)**  
+Created by **[Rupak Swar](https://github.com/ai-rupak)**  
 Feel free to reach out at **[swwarrupak@gmail.com]**.
 
 ---
