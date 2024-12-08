@@ -83,7 +83,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](#) *(Replace with your repository's issues link)*.
+Feel free to check the [issues page]( # ) *(Replace with your repository's issues link)*.
 
 ---
 
