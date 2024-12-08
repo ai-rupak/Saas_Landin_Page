@@ -27,7 +27,7 @@ Follow these steps to run the project locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/saas-website-dark-landing-page.git
+git clone https://github.com/ai-rupak/Saas_Landing_Page.git
 cd saas-website-dark-landing-page
 ```
 
